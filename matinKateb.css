@@ -1,0 +1,44 @@
+body {
+    background-image: url("https://www.herzing.edu/sites/default/files/styles/fp_960_640/public/2020-09/it_computer_programming.jpg.webp?itok=8aEwtSxk");
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.sec {
+    background-color:cornflowerblue;
+    border-radius: 5px;
+    opacity: 1;
+}
+
+header {
+    text-align: center;
+}
+
+article {
+    width: 70%;
+}
+
+aside {
+    width: 25%;
+    position: relative;
+}
+
+#horizon {
+    display: flex;
+    flex-direction: row;
+}
+
+#image {
+    border-radius: 10px;
+    opacity: 1;
+}
+
+.con {
+    width: 20px;
+    height: 20px;
+}
+
+.copyright {
+    font-size: 10px;
+    text-align: center;
+}
